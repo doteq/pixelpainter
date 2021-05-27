@@ -1,24 +1,6 @@
 # pixelpainter
+Pixelart creator for https://pixels.pythondiscord.com/ canvas. Features crappy code written in few hours, bugs, 
+and custom file format which understands black as transparent so you can't paint in #000000.
 
-## Project setup
-```
-npm install
-```
+![screenshot](./public/screenshot.png)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
